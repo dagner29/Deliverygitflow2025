@@ -1,0 +1,8 @@
+{
+  "bindingCulture": {
+    "language": "es"
+  },
+  "language": "es",
+  "unitTestProvider": "nunit", 
+  "plugins": []
+}

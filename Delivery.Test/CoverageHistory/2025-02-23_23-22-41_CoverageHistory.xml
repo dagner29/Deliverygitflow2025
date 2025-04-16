@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2025-02-23_23-22-41" tag="">
+  <assembly name="Delivery.Applications">
+    <class name="Delivery_Applications_NUnitAssemblyHooks" coveredlines="0" coverablelines="8" totallines="32" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="2" />
+    <class name="Delivery.Applications.Handlers.Deliveries.AssignDeliveryToPersonHandler" coveredlines="13" coverablelines="13" totallines="37" coveredbranches="2" totalbranches="4" coveredcodeelements="2" fullcoveredcodeelements="1" totalcodeelements="2" />
+    <class name="Delivery.Applications.Handlers.Deliveries.CreateDeliveryHandler" coveredlines="13" coverablelines="13" totallines="43" coveredbranches="4" totalbranches="4" coveredcodeelements="2" fullcoveredcodeelements="1" totalcodeelements="2" />
+    <class name="Delivery.Applications.Handlers.Deliveries.UpdateDeliveryStatusHandler" coveredlines="9" coverablelines="9" totallines="32" coveredbranches="2" totalbranches="2" coveredcodeelements="2" fullcoveredcodeelements="1" totalcodeelements="2" />
+    <class name="Delivery.Applications.Handlers.Packages.AddPackageToDeliveryHandler" coveredlines="13" coverablelines="13" totallines="40" coveredbranches="4" totalbranches="4" coveredcodeelements="2" fullcoveredcodeelements="1" totalcodeelements="2" />
+    <class name="Delivery.Applications.Handlers.Packages.GetPackagesByDeliveryQueryHandler" coveredlines="0" coverablelines="1" totallines="18" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="1" />
+    <class name="Delivery.Applications.UsesCases.Deliveries.AssignDeliveryToPersonCommand" coveredlines="2" coverablelines="2" totallines="21" coveredbranches="0" totalbranches="0" coveredcodeelements="2" fullcoveredcodeelements="2" totalcodeelements="2" />
+    <class name="Delivery.Applications.UsesCases.Deliveries.CreateDeliveryCommand" coveredlines="3" coverablelines="3" totallines="21" coveredbranches="0" totalbranches="0" coveredcodeelements="3" fullcoveredcodeelements="3" totalcodeelements="3" />
+    <class name="Delivery.Applications.UsesCases.Deliveries.UpdateDeliveryStatusCommand" coveredlines="1" coverablelines="2" totallines="20" coveredbranches="0" totalbranches="0" coveredcodeelements="1" fullcoveredcodeelements="1" totalcodeelements="2" />
+    <class name="Delivery.Applications.UsesCases.Packages.AddPackageToDeliveryCommand" coveredlines="2" coverablelines="2" totallines="27" coveredbranches="0" totalbranches="0" coveredcodeelements="2" fullcoveredcodeelements="2" totalcodeelements="2" />
+    <class name="Delivery.Applications.UsesCases.Packages.GetPackagesByDeliveryQuery" coveredlines="0" coverablelines="1" totallines="16" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="1" />
+  </assembly>
+  <assembly name="Delivery.Domain">
+    <class name="Delivery_Domain_NUnitAssemblyHooks" coveredlines="0" coverablelines="8" totallines="32" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="2" />
+    <class name="Delivery.Domain.Entities.Administrator" coveredlines="0" coverablelines="7" totallines="35" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="3" />
+    <class name="Delivery.Domain.Entities.DeliveryPerson" coveredlines="13" coverablelines="13" totallines="30" coveredbranches="2" totalbranches="2" coveredcodeelements="5" fullcoveredcodeelements="4" totalcodeelements="5" />
+    <class name="Delivery.Domain.Entities.Deliveryx" coveredlines="27" coverablelines="28" totallines="53" coveredbranches="2" totalbranches="2" coveredcodeelements="13" fullcoveredcodeelements="12" totalcodeelements="14" />
+    <class name="Delivery.Domain.Entities.Package" coveredlines="15" coverablelines="16" totallines="56" coveredbranches="2" totalbranches="2" coveredcodeelements="8" fullcoveredcodeelements="7" totalcodeelements="9" />
+    <class name="Delivery.Domain.ValueObjects.Address" coveredlines="15" coverablelines="16" totallines="42" coveredbranches="6" totalbranches="6" coveredcodeelements="4" fullcoveredcodeelements="3" totalcodeelements="5" />
+    <class name="Delivery.Domain.ValueObjects.DeliveryRoute" coveredlines="5" coverablelines="5" totallines="23" coveredbranches="0" totalbranches="0" coveredcodeelements="5" fullcoveredcodeelements="5" totalcodeelements="5" />
+  </assembly>
+  <assembly name="Delivery.Infraestructure">
+    <class name="Delivery_Infraestructure_NUnitAssemblyHooks" coveredlines="0" coverablelines="8" totallines="32" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="2" />
+    <class name="Delivery.Infraestructure.Configurations.DatabaseConfig" coveredlines="0" coverablelines="7" totallines="46" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="1" />
+    <class name="Delivery.Infraestructure.Persistence.ApplicationDbContext" coveredlines="54" coverablelines="54" totallines="144" coveredbranches="0" totalbranches="0" coveredcodeelements="7" fullcoveredcodeelements="6" totalcodeelements="7" />
+    <class name="Delivery.Infraestructure.Persistence.Repositories.DeliveryPersonRepository" coveredlines="26" coverablelines="26" totallines="58" coveredbranches="2" totalbranches="2" coveredcodeelements="6" fullcoveredcodeelements="6" totalcodeelements="6" />
+    <class name="Delivery.Infraestructure.Persistence.Repositories.DeliveryRepository" coveredlines="35" coverablelines="39" totallines="78" coveredbranches="4" totalbranches="4" coveredcodeelements="7" fullcoveredcodeelements="7" totalcodeelements="8" />
+    <class name="Delivery.Infraestructure.Persistence.Repositories.PackageRepository" coveredlines="0" coverablelines="26" totallines="103" coveredbranches="0" totalbranches="2" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="6" />
+  </assembly>
+</coverage>

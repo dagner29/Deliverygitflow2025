@@ -1,0 +1,98 @@
+[
+  {
+    "ContainingType": "Delivery.WebApi.Controllers.DeliveriesController",
+    "Method": "CreateDelivery",
+    "RelativePath": "api/Deliveries/Add-Delivery",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "Delivery.WebApi.DPTOs.CreateDeliveryRequestDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Delivery.WebApi.Controllers.DeliveriesController",
+    "Method": "AddAndAssignDeliveryPerson",
+    "RelativePath": "api/Deliveries/Add-Delivery-Person",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "Delivery.WebApi.DPTOs.CreateDeliveryPersonDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Delivery.WebApi.Controllers.DeliveriesController",
+    "Method": "AssignDeliveryPerson",
+    "RelativePath": "api/Deliveries/Assign-person",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "Delivery.WebApi.DPTOs.AssignDeliveryPersonDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Delivery.WebApi.Controllers.DeliveriesController",
+    "Method": "UpdateDeliveryStatus",
+    "RelativePath": "api/Deliveries/Update-Status",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "requestDto",
+        "Type": "Delivery.WebApi.DPTOs.DeliveryidDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Delivery.WebApi.Controllers.PackagesController",
+    "Method": "GetPackageById",
+    "RelativePath": "api/Packages/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Delivery.WebApi.Controllers.PackagesController",
+    "Method": "AddPackageToDelivery",
+    "RelativePath": "api/Packages/Adddelivery",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "packageDto",
+        "Type": "Delivery.WebApi.DPTOs.PackageDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

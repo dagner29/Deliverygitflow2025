@@ -1,0 +1,53 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Features\Calculator.feature.cs" />
+    <Compile Remove="Features\📄 GetPackageById.feature.cs" />
+    <Compile Remove="StepDefinitions\CalculatorStepDefinitions.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <SpecFlowFeatureFiles Remove="Features\Calculator.feature" />
+    <SpecFlowFeatureFiles Remove="Features\📄 GetPackageById.feature" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="17.0.0" />
+    <PackageReference Include="Shouldly" Version="4.3.0" />
+    <PackageReference Include="SpecFlow.Plus.LivingDocPlugin" Version="3.9.57" />
+    
+    <PackageReference Include="nunit" Version="3.13.2" />
+    <PackageReference Include="NUnit3TestAdapter" Version="4.1.0" />
+    <PackageReference Include="FluentAssertions" Version="6.12.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Drivers\" />
+    <Folder Include="Features\" />
+    <Folder Include="Support\" />
+  </ItemGroup>
+
+
+<ItemGroup>
+    <PackageReference Include="SpecFlow" Version="3.9.74">
+      <NoWarn></NoWarn>
+    </PackageReference>
+    <PackageReference Include="SpecFlow.XUnit" Version="3.9.74" />
+    <PackageReference Include="FluentAssertions" Version="6.7.0" />
+</ItemGroup>
+
+
+<ItemGroup>
+  <ProjectReference Include="..\Delivery.Applications\Delivery.Applications.csproj" />
+  <ProjectReference Include="..\Delivery.Infraestructure\Delivery.Infraestructure.csproj" />
+  <ProjectReference Include="..\Delivery.WebApi\Delivery.WebApi.csproj" />
+  <ProjectReference Include="..\DeliveryDomain\Delivery.Domain.csproj" />
+</ItemGroup>
+
+</Project>

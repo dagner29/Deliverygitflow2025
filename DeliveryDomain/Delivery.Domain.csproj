@@ -1,0 +1,59 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Abstractions\**" />
+    <Compile Remove="Addres\**" />
+    <Compile Remove="Deliveries\**" />
+    <Compile Remove="Deliverys\**" />
+    <Compile Remove="Event\**" />
+    <Compile Remove="Paquetes\**" />
+    <Compile Remove="Shared\**" />
+    <Compile Remove="Transaccion\**" />
+    <Compile Remove="Users\**" />
+    <EmbeddedResource Remove="Abstractions\**" />
+    <EmbeddedResource Remove="Addres\**" />
+    <EmbeddedResource Remove="Deliveries\**" />
+    <EmbeddedResource Remove="Deliverys\**" />
+    <EmbeddedResource Remove="Event\**" />
+    <EmbeddedResource Remove="Paquetes\**" />
+    <EmbeddedResource Remove="Shared\**" />
+    <EmbeddedResource Remove="Transaccion\**" />
+    <EmbeddedResource Remove="Users\**" />
+    <None Remove="Abstractions\**" />
+    <None Remove="Addres\**" />
+    <None Remove="Deliveries\**" />
+    <None Remove="Deliverys\**" />
+    <None Remove="Event\**" />
+    <None Remove="Paquetes\**" />
+    <None Remove="Shared\**" />
+    <None Remove="Transaccion\**" />
+    <None Remove="Users\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Entities\Administrator.cs" />
+    <Compile Remove="Interfaces\IDeliveryPersonRepository.cs" />
+    <Compile Remove="Interfaces\IRepository.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.2" />
+    <PackageReference Include="Microsoft.NETCore.App" Version="2.2.8" />
+    <PackageReference Include="RestSharp" Version="112.1.0" />
+    <PackageReference Include="SpecFlow" Version="3.9.74" />
+    <PackageReference Include="SpecFlow.NUnit" Version="3.9.74" />
+    <PackageReference Include="SpecFlow.Tools.MsBuild.Generation" Version="3.9.74" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
+</Project>

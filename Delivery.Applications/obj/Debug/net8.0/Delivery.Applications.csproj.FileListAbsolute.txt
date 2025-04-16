@@ -1,0 +1,16 @@
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\bin\Debug\net8.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\bin\Debug\net8.0\Delivery.Applications.deps.json
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\bin\Debug\net8.0\Delivery.Applications.dll
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\bin\Debug\net8.0\Delivery.Applications.pdb
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\bin\Debug\net8.0\Delivery.Domain.dll
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\bin\Debug\net8.0\Delivery.Domain.pdb
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\obj\Debug\net8.0\Delivery.Applications.csproj.AssemblyReference.cache
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\obj\Debug\net8.0\Delivery.Applications.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\obj\Debug\net8.0\Delivery.Applications.AssemblyInfoInputs.cache
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\obj\Debug\net8.0\Delivery.Applications.AssemblyInfo.cs
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\obj\Debug\net8.0\Delivery.Applications.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\obj\Debug\net8.0\Delivery.DBDBC70C.Up2Date
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\obj\Debug\net8.0\Delivery.Applications.dll
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\obj\Debug\net8.0\refint\Delivery.Applications.dll
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\obj\Debug\net8.0\Delivery.Applications.pdb
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\obj\Debug\net8.0\ref\Delivery.Applications.dll

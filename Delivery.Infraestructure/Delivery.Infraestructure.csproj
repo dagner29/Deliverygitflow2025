@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Repositories\**" />
+    <Compile Remove="Services\**" />
+    <Compile Remove="StoreModel\**" />
+    <EmbeddedResource Remove="Repositories\**" />
+    <EmbeddedResource Remove="Services\**" />
+    <EmbeddedResource Remove="StoreModel\**" />
+    <None Remove="Repositories\**" />
+    <None Remove="Services\**" />
+    <None Remove="StoreModel\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Configurations\DependencyInjection.cs" />
+    <Compile Remove="Extensions.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.2" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="9.0.0" />
+    <PackageReference Include="Microsoft.Extensions.Configuration.Abstractions" Version="9.0.0" />
+    <PackageReference Include="RestSharp" Version="112.1.0" />
+    <PackageReference Include="SpecFlow" Version="3.9.74" />
+    <PackageReference Include="SpecFlow.NUnit" Version="3.9.74" />
+    <PackageReference Include="SpecFlow.Tools.MsBuild.Generation" Version="3.9.74" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Delivery.Applications\Delivery.Applications.csproj" />
+    <ProjectReference Include="..\DeliveryDomain\Delivery.Domain.csproj" />
+  </ItemGroup>
+
+</Project>

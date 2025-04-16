@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "\\Delivery.Applications\\Handlers",
+    "\\Delivery.Applications\\Handlers\\Deliveries",
+    "\\Delivery.Test\\Aplication",
+    "\\Delivery.Test\\Aplication\\Delivery",
+    "\\Delivery.Test\\Aplication\\Delivery\\EventHanders"
+  ],
+  "PreviewInSolutionExplorer": false
+}

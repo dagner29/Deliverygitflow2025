@@ -1,0 +1,66 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="Abstractions\**" />
+    <Compile Remove="Command\**" />
+    <Compile Remove="Deliveries\**" />
+    <Compile Remove="Dpto\**" />
+    <Compile Remove="Handler\**" />
+    <Compile Remove="Models\**" />
+    <Compile Remove="Queries\**" />
+    <EmbeddedResource Remove="Abstractions\**" />
+    <EmbeddedResource Remove="Command\**" />
+    <EmbeddedResource Remove="Deliveries\**" />
+    <EmbeddedResource Remove="Dpto\**" />
+    <EmbeddedResource Remove="Handler\**" />
+    <EmbeddedResource Remove="Models\**" />
+    <EmbeddedResource Remove="Queries\**" />
+    <None Remove="Abstractions\**" />
+    <None Remove="Command\**" />
+    <None Remove="Deliveries\**" />
+    <None Remove="Dpto\**" />
+    <None Remove="Handler\**" />
+    <None Remove="Models\**" />
+    <None Remove="Queries\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Remove="Handlers\Deliveries\GetDeliveryPersonByIdHandler.cs" />
+    <Compile Remove="UsesCases\Deliveries\AddPackageToDeliveryCommand.cs" />
+    <Compile Remove="UsesCases\Deliveries\GetDeliveryPersonByIdQuery .cs" />
+    <Compile Remove="UsesCases\Deliveries\GetDeliveryQuery.cs" />
+    <Compile Remove="UsesCases\Deliveries\GetPackagesByDeliveryQuery.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="MediatR" Version="12.4.1" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="9.0.2" />
+    <PackageReference Include="RestSharp" Version="112.1.0" />
+    <PackageReference Include="SpecFlow" Version="3.9.74" />
+    <PackageReference Include="SpecFlow.NUnit" Version="3.9.74" />
+    <PackageReference Include="SpecFlow.Tools.MsBuild.Generation" Version="3.9.74" />
+    <PackageReference Include="StyleCop.Analyzers" Version="1.2.0-beta.556">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DeliveryDomain\Delivery.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <EditorConfigFiles Remove="D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\.editorconfig" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\.editorconfig" />
+  </ItemGroup>
+
+</Project>

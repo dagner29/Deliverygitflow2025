@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<coverage version="1.0" date="2025-01-27_12-39-26" tag="">
+  <assembly name="Delivery.Applications">
+    <class name="Delivery.Applications.Handlers.Deliveries.AssignDeliveryToPersonHandler" coveredlines="0" coverablelines="10" totallines="51" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="3" />
+    <class name="Delivery.Applications.Handlers.Deliveries.CreateDeliveryHandler" coveredlines="0" coverablelines="9" totallines="45" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="2" />
+    <class name="Delivery.Applications.Handlers.Deliveries.GetDeliveryPersonByIdHandler" coveredlines="0" coverablelines="21" totallines="43" coveredbranches="0" totalbranches="2" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="2" />
+    <class name="Delivery.Applications.Handlers.Deliveries.UpdateDeliveryStatusHandler" coveredlines="0" coverablelines="10" totallines="54" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="3" />
+    <class name="Delivery.Applications.Models.AddPackageRequestDto" coveredlines="0" coverablelines="2" totallines="15" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="2" />
+    <class name="Delivery.Applications.Models.CreateDeliveryRequestDto" coveredlines="0" coverablelines="3" totallines="15" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="3" />
+    <class name="Delivery.Applications.Models.DeliveryDto" coveredlines="0" coverablelines="3" totallines="30" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="3" />
+    <class name="Delivery.Applications.Models.DeliveryPersonDto" coveredlines="0" coverablelines="4" totallines="16" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="4" />
+    <class name="Delivery.Applications.Models.Packagedpto" coveredlines="0" coverablelines="3" totallines="16" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="3" />
+    <class name="Delivery.Applications.Models.PackageDto" coveredlines="0" coverablelines="4" totallines="30" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="4" />
+    <class name="Delivery.Applications.Models.PackageInfo" coveredlines="0" coverablelines="3" totallines="15" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="3" />
+    <class name="Delivery.Applications.UsesCases.Deliveries.AssignDeliveryToPersonCommand" coveredlines="0" coverablelines="2" totallines="21" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="2" />
+    <class name="Delivery.Applications.UsesCases.Deliveries.CreateDeliveryCommand" coveredlines="0" coverablelines="3" totallines="24" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="3" />
+    <class name="Delivery.Applications.UsesCases.Deliveries.GetDeliveryPersonByIdQuery" coveredlines="0" coverablelines="1" totallines="14" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="1" />
+    <class name="Delivery.Applications.UsesCases.Deliveries.UpdateDeliveryStatusCommand" coveredlines="0" coverablelines="2" totallines="22" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="2" />
+    <class name="Delivery.Applications.UsesCases.Packages.AddPackageToDeliveryCommand" coveredlines="0" coverablelines="7" totallines="27" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="3" />
+    <class name="Delivery.Applications.UsesCases.Packages.GetPackagesByDeliveryQuery" coveredlines="0" coverablelines="1" totallines="34" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="1" />
+  </assembly>
+  <assembly name="Delivery.Domain">
+    <class name="Delivery.Domain.Entities.Administrator" coveredlines="0" coverablelines="12" totallines="27" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="5" />
+    <class name="Delivery.Domain.Entities.DeliveryPerson" coveredlines="0" coverablelines="24" totallines="48" coveredbranches="0" totalbranches="4" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="8" />
+    <class name="Delivery.Domain.Entities.Deliveryx" coveredlines="0" coverablelines="40" totallines="83" coveredbranches="0" totalbranches="4" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="13" />
+    <class name="Delivery.Domain.Entities.Package" coveredlines="9" coverablelines="20" totallines="44" coveredbranches="0" totalbranches="4" coveredcodeelements="4" fullcoveredcodeelements="4" totalcodeelements="8" />
+    <class name="Delivery.Domain.Event.DeliveryCreatedEvent" coveredlines="0" coverablelines="7" totallines="20" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="3" />
+    <class name="Delivery.Domain.ValueObjects.Address" coveredlines="11" coverablelines="14" totallines="28" coveredbranches="0" totalbranches="0" coveredcodeelements="5" fullcoveredcodeelements="5" totalcodeelements="6" />
+    <class name="Delivery.Domain.ValueObjects.DeliveryRoute" coveredlines="0" coverablelines="7" totallines="71" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="3" />
+  </assembly>
+  <assembly name="Delivery.Infraestructure">
+    <class name="Delivery.Infraestructure.Configurations.DatabaseConfig" coveredlines="0" coverablelines="5" totallines="34" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="1" />
+    <class name="Delivery.Infraestructure.Persistence.ApplicationDbContext" coveredlines="0" coverablelines="17" totallines="78" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="5" />
+    <class name="Delivery.Infraestructure.Persistence.Repositories.DeliveryPersonRepository" coveredlines="0" coverablelines="9" totallines="31" coveredbranches="0" totalbranches="0" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="2" />
+    <class name="Delivery.Infraestructure.Persistence.Repositories.DeliveryRepository" coveredlines="0" coverablelines="57" totallines="97" coveredbranches="0" totalbranches="10" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="8" />
+    <class name="Delivery.Infraestructure.Persistence.Repositories.PackageRepository" coveredlines="0" coverablelines="27" totallines="57" coveredbranches="0" totalbranches="2" coveredcodeelements="0" fullcoveredcodeelements="0" totalcodeelements="6" />
+  </assembly>
+</coverage>

@@ -1,0 +1,11 @@
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\DeliveryDomain\bin\Debug\net8.0\DeliveryDomain.deps.json
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\DeliveryDomain\bin\Debug\net8.0\DeliveryDomain.dll
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\DeliveryDomain\bin\Debug\net8.0\DeliveryDomain.pdb
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\DeliveryDomain\obj\Debug\net8.0\DeliveryDomain.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\DeliveryDomain\obj\Debug\net8.0\DeliveryDomain.AssemblyInfoInputs.cache
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\DeliveryDomain\obj\Debug\net8.0\DeliveryDomain.AssemblyInfo.cs
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\DeliveryDomain\obj\Debug\net8.0\DeliveryDomain.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\DeliveryDomain\obj\Debug\net8.0\DeliveryDomain.dll
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\DeliveryDomain\obj\Debug\net8.0\refint\DeliveryDomain.dll
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\DeliveryDomain\obj\Debug\net8.0\DeliveryDomain.pdb
+D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\DeliveryDomain\obj\Debug\net8.0\ref\DeliveryDomain.dll
