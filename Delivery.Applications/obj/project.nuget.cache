@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NK/rM6vTkSA=",
+  "dgSpecHash": "sTIa/MTqLbE=",
   "success": true,
-  "projectFilePath": "D:\\PROYECTOS\\Diplomado microservicio\\Delivery\\Delivery\\Delivery.Applications\\Delivery.Applications.csproj",
+  "projectFilePath": "D:\\PROYECTOS\\Diplomado microservicio\\Clase5 - Devops\\Repos\\Deliverygitflow2025\\Delivery.Applications\\Delivery.Applications.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Asus\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\Asus\\.nuget\\packages\\gherkin\\19.0.3\\gherkin.19.0.3.nupkg.sha512",

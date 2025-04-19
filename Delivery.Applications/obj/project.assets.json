@@ -6772,8 +6772,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\PROYECTOS\\Diplomado microservicio\\Delivery\\Delivery\\DeliveryDomain\\Delivery.Domain.csproj": {
-              "projectPath": "D:\\PROYECTOS\\Diplomado microservicio\\Delivery\\Delivery\\DeliveryDomain\\Delivery.Domain.csproj"
+            "D:\\PROYECTOS\\Diplomado microservicio\\Clase5 - Devops\\Repos\\Deliverygitflow2025\\DeliveryDomain\\Delivery.Domain.csproj": {
+              "projectPath": "D:\\PROYECTOS\\Diplomado microservicio\\Clase5 - Devops\\Repos\\Deliverygitflow2025\\DeliveryDomain\\Delivery.Domain.csproj"
             }
           }
         }

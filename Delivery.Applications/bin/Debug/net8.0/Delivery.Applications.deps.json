@@ -14,7 +14,8 @@
           "RestSharp": "112.1.0",
           "SpecFlow": "3.9.74",
           "SpecFlow.NUnit": "3.9.74",
-          "SpecFlow.Tools.MsBuild.Generation": "3.9.74"
+          "SpecFlow.Tools.MsBuild.Generation": "3.9.74",
+          "StyleCop.Analyzers": "1.2.0-beta.556"
         },
         "runtime": {
           "Delivery.Applications.dll": {}
