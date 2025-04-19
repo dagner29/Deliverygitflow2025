@@ -1,0 +1,29 @@
+{
+  "name": "deliverygitflow2025",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "test": "echo \"No hay pruebas definidas\""
+  },
+  "lint-staged": {
+    "*.cs": [
+      "dotnet format ./Delivery.API/Delivery.API.csproj --verify-no-changes",
+      "dotnet format ./Delivery.Domain/Delivery.Domain.csproj --verify-no-changes",
+      "dotnet format ./Delivery.Application/Delivery.Application.csproj --verify-no-changes",
+      "dotnet test ./Delivery.Tests/Delivery.Tests.csproj",
+	  
+      "dotnet format --verify-no-changes",
+      "dotnet test",
+      "git add"
+    ]
+  },
+  "devDependencies": {
+    "husky": "^9.0.0",
+    "lint-staged": "^15.0.0"
+  },
+  "author": "",
+  "license": "ISC"
+}
+

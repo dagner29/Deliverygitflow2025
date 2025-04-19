@@ -1,0 +1,25 @@
+{
+  "name": "deliverygitflow2025",
+  "version": "1.0.0",
+  "description": "Se implemento el mediator centraliza la interaccion de la presentacion, el negocio de la aplicacion y realizar el \r desacoplamiento.",
+  "main": "index.js",
+  "scripts": {
+    "prepare": "husky install",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dagner29/Deliverygitflow2025.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dagner29/Deliverygitflow2025/issues"
+  },
+  "homepage": "https://github.com/dagner29/Deliverygitflow2025#readme",
+  "devDependencies": {
+    "husky": "^9.1.7",
+    "lint-staged": "^15.5.1"
+  }
+}
