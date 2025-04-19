@@ -16,3 +16,22 @@ D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Infraestructure\
 D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Infraestructure\obj\Debug\net8.0\refint\Delivery.Infraestructure.dll
 D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Infraestructure\obj\Debug\net8.0\Delivery.Infraestructure.pdb
 D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Infraestructure\obj\Debug\net8.0\ref\Delivery.Infraestructure.dll
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\bin\Debug\net8.0\TechTalk.SpecFlow.NUnit.SpecFlowPlugin.dll
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\bin\Debug\net8.0\Delivery.Infraestructure.deps.json
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\bin\Debug\net8.0\Delivery.Infraestructure.dll
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\bin\Debug\net8.0\Delivery.Infraestructure.pdb
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\bin\Debug\net8.0\Delivery.Applications.dll
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\bin\Debug\net8.0\Delivery.Domain.dll
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\bin\Debug\net8.0\Delivery.Applications.pdb
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\bin\Debug\net8.0\Delivery.Domain.pdb
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\obj\Debug\net8.0\Delivery.Infraestructure.csproj.AssemblyReference.cache
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\obj\Debug\net8.0\Delivery.Infraestructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\obj\Debug\net8.0\Delivery.Infraestructure.AssemblyInfoInputs.cache
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\obj\Debug\net8.0\Delivery.Infraestructure.AssemblyInfo.cs
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\obj\Debug\net8.0\Delivery.Infraestructure.csproj.CoreCompileInputs.cache
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\obj\Debug\net8.0\Delivery.Infraestructure.sourcelink.json
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\obj\Debug\net8.0\Delivery.ECAEC215.Up2Date
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\obj\Debug\net8.0\Delivery.Infraestructure.dll
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\obj\Debug\net8.0\refint\Delivery.Infraestructure.dll
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\obj\Debug\net8.0\Delivery.Infraestructure.pdb
+D:\PROYECTOS\Diplomado microservicio\Clase5 - Devops\Repos\Deliverygitflow2025\Delivery.Infraestructure\obj\Debug\net8.0\ref\Delivery.Infraestructure.dll

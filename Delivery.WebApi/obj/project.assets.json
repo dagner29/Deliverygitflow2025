@@ -9269,11 +9269,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROYECTOS\\Diplomado microservicio\\Delivery\\Delivery\\Delivery.WebApi\\Delivery.WebApi.csproj",
+      "projectUniqueName": "D:\\PROYECTOS\\Diplomado microservicio\\Clase5 - Devops\\Repos\\Deliverygitflow2025\\Delivery.WebApi\\Delivery.WebApi.csproj",
       "projectName": "Delivery.WebApi",
-      "projectPath": "D:\\PROYECTOS\\Diplomado microservicio\\Delivery\\Delivery\\Delivery.WebApi\\Delivery.WebApi.csproj",
+      "projectPath": "D:\\PROYECTOS\\Diplomado microservicio\\Clase5 - Devops\\Repos\\Deliverygitflow2025\\Delivery.WebApi\\Delivery.WebApi.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\PROYECTOS\\Diplomado microservicio\\Delivery\\Delivery\\Delivery.WebApi\\obj\\",
+      "outputPath": "D:\\PROYECTOS\\Diplomado microservicio\\Clase5 - Devops\\Repos\\Deliverygitflow2025\\Delivery.WebApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -9290,11 +9290,11 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "D:\\PROYECTOS\\Diplomado microservicio\\Delivery\\Delivery\\Delivery.Applications\\Delivery.Applications.csproj": {
-              "projectPath": "D:\\PROYECTOS\\Diplomado microservicio\\Delivery\\Delivery\\Delivery.Applications\\Delivery.Applications.csproj"
+            "D:\\PROYECTOS\\Diplomado microservicio\\Clase5 - Devops\\Repos\\Deliverygitflow2025\\Delivery.Applications\\Delivery.Applications.csproj": {
+              "projectPath": "D:\\PROYECTOS\\Diplomado microservicio\\Clase5 - Devops\\Repos\\Deliverygitflow2025\\Delivery.Applications\\Delivery.Applications.csproj"
             },
-            "D:\\PROYECTOS\\Diplomado microservicio\\Delivery\\Delivery\\Delivery.Infraestructure\\Delivery.Infraestructure.csproj": {
-              "projectPath": "D:\\PROYECTOS\\Diplomado microservicio\\Delivery\\Delivery\\Delivery.Infraestructure\\Delivery.Infraestructure.csproj"
+            "D:\\PROYECTOS\\Diplomado microservicio\\Clase5 - Devops\\Repos\\Deliverygitflow2025\\Delivery.Infraestructure\\Delivery.Infraestructure.csproj": {
+              "projectPath": "D:\\PROYECTOS\\Diplomado microservicio\\Clase5 - Devops\\Repos\\Deliverygitflow2025\\Delivery.Infraestructure\\Delivery.Infraestructure.csproj"
             }
           }
         }

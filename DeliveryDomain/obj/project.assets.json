@@ -6679,11 +6679,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PROYECTOS\\Diplomado microservicio\\Delivery\\Delivery\\DeliveryDomain\\Delivery.Domain.csproj",
+      "projectUniqueName": "D:\\PROYECTOS\\Diplomado microservicio\\Clase5 - Devops\\Repos\\Deliverygitflow2025\\DeliveryDomain\\Delivery.Domain.csproj",
       "projectName": "Delivery.Domain",
-      "projectPath": "D:\\PROYECTOS\\Diplomado microservicio\\Delivery\\Delivery\\DeliveryDomain\\Delivery.Domain.csproj",
+      "projectPath": "D:\\PROYECTOS\\Diplomado microservicio\\Clase5 - Devops\\Repos\\Deliverygitflow2025\\DeliveryDomain\\Delivery.Domain.csproj",
       "packagesPath": "C:\\Users\\Asus\\.nuget\\packages\\",
-      "outputPath": "D:\\PROYECTOS\\Diplomado microservicio\\Delivery\\Delivery\\DeliveryDomain\\obj\\",
+      "outputPath": "D:\\PROYECTOS\\Diplomado microservicio\\Clase5 - Devops\\Repos\\Deliverygitflow2025\\DeliveryDomain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Asus\\AppData\\Roaming\\NuGet\\NuGet.Config",
