@@ -55,12 +55,4 @@
     <ProjectReference Include="..\DeliveryDomain\Delivery.Domain.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <EditorConfigFiles Remove="D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\.editorconfig" />
-  </ItemGroup>
-
-  <ItemGroup>
-    <None Include="D:\PROYECTOS\Diplomado microservicio\Delivery\Delivery\Delivery.Applications\.editorconfig" />
-  </ItemGroup>
-
 </Project>
